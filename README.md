@@ -1,14 +1,24 @@
 Python Basics
 ============
 
-1. [Introduction](http://nbviewer.ipython.org/urls/db.tt/Cwss5FT5?create=1)
-1. [Data Types](http://nbviewer.ipython.org/urls/db.tt/kfRLqAb0?create=1)
-1. [Statements](http://nbviewer.ipython.org/urls/db.tt/KKZddZmZ?create=1)
-1. [Scripts](http://nbviewer.ipython.org/urls/db.tt/EHXfFqle?create=1)
-1. [Functions](http://nbviewer.ipython.org/urls/db.tt/zpRvrBxn?create=1)
-1. [Algorithms](http://nbviewer.ipython.org/urls/db.tt/ZHmvlvWp?create=1)
-1. [Data Structures](http://nbviewer.ipython.org/urls/db.tt/d0ds4H8H?create=1)
-1. [Classes](http://nbviewer.ipython.org/urls/db.tt/uDkXldyx?create=1)
-1. [Libraries](http://nbviewer.ipython.org/urls/db.tt/l54IjsLl?create=1)
-1. [Arrays](http://nbviewer.ipython.org/urls/db.tt/Ro5XYEDk?create=1)
-1. [Data Frames](http://nbviewer.ipython.org/urls/db.tt/szwD7)
+1. [Introduction]()
+1. [Data Types]()
+1. [Statements]()
+1. [Scripts]()
+1. [Functions]()
+1. [Algorithms]()
+1. [Data Structures]()
+1. [Classes]()
+1. [Libraries]()
+1. [Arrays]()
+1. [Data Frames]()
+
+
+
+
+**Older Versions**:
+
+* [Anatomy of the language]()
+* [Data Types and Data Structures]()
+
+
