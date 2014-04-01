@@ -1,14 +1,14 @@
 R Basics
 ========
 
-The iPython notebooks in this repository are notebook skeletons that we will fill in together in class. They
-are meant to help you take lecture notes during. Clone the repository and launch the ipython notebook in that 
-repository. 
+The iPython notebooks in this repository are skeletons that we will fill in together during class time. They
+are meant to help you take notes during class. Clone this repository and launch the ipython notebook in it. 
 
-To spare you intallation troubles, we have created a linux virturl box (called "OskiBox") where everything you'll need for this class has already been installed. You'll find detailed instruction on how to set up the virtual box [here](https://docs.google.com/document/d/1ybM5k73-b38dvYDbr8QX01l15SNgfysdS7wDmlQDBcY/pub).
+To spare you installation troubles, we have created a linux virtual box (called "OskiBox"), where everything you'll need for this class has already been installed. You'll find detailed instructions on how to set up the virtual box [here](https://docs.google.com/document/d/1ybM5k73-b38dvYDbr8QX01l15SNgfysdS7wDmlQDBcY/pub).
 
+You'll also be able to access cloud machine we set up for the class by following the instructions [here](https://docs.google.com/a/berkeley.edu/document/d/14VhcyR_ii19-jnJwUjvOeJe26OJSVZpCjGrsiBnSBxA/pub).
 
-You'll find an copy of the class lecture  
+You'll be able to access an html version of the skeleton notebooks, filled in with what we type in during class, at the following links, or at the following website: [http://benoitdherin.github.io/R-basics](http://benoitdherin.github.io/R-basics).
 
 
 1. [Introduction](http://nbviewer.ipython.org/urls/db.tt/uIXufQ0y?create=1)
@@ -23,10 +23,7 @@ You'll find an copy of the class lecture
 1. [Arrays](http://nbviewer.ipython.org/urls/db.tt/80ZA9ZWL?create=1)
 1. [Data Frames](http://nbviewer.ipython.org/urls/db.tt/Rctqxosk?create=1)
 
-
-
-
-**Older Versions**:
+The following two contain previous years lecture notes:
 
 * [Anatomy of the language](http://nbviewer.ipython.org/urls/db.tt/Y8RsLFIC?create=1)
 * [Data Types and Data Structures](http://nbviewer.ipython.org/urls/db.tt/QxPG9UwO?create=1)
