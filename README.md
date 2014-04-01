@@ -23,7 +23,7 @@ You'll be able to access an html version of the skeleton notebooks, filled in wi
 1. [Arrays](http://nbviewer.ipython.org/urls/db.tt/80ZA9ZWL?create=1)
 1. [Data Frames](http://nbviewer.ipython.org/urls/db.tt/Rctqxosk?create=1)
 
-The following two contain previous years lecture notes:
+Previous years lecture notes:
 
 * [Anatomy of the language](http://nbviewer.ipython.org/urls/db.tt/Y8RsLFIC?create=1)
 * [Data Types and Data Structures](http://nbviewer.ipython.org/urls/db.tt/QxPG9UwO?create=1)
